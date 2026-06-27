@@ -1,7 +1,7 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=426x240
-http://h25.soratch.online/live/31009988005/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=640x360
-http://h25.soratch.online/live/978480008877005/index.m3u8
+
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1024x576
-http://h25.soratch.online/live/918454578001/index.m3u8
+https://stream.camcloud.stream/stream/490a4e58f0da/playlist.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
+https://stream.camcloud.stream/stream/686be4c2621d/playlist.m3u8
